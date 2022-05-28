@@ -1,0 +1,9 @@
+.navbar-brand {
+    font-size: 24px;
+    font-weight: 400;
+    color: blue;
+}
+
+.navbar-nav {
+    margin-left: 76%;
+}
