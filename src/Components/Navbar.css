@@ -30,3 +30,9 @@
     background-color: white;
     color: #ffc107;
 }
+
+@media screen and (max-width:990px){
+        .navbar-nav {
+            margin-left: 0rem;
+        }
+}

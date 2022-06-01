@@ -49,11 +49,17 @@ function Navbar() {
                       </Link>
                     </li>
                   </ul>
+                  <form action="">
+                    <button
+                      type="button"
+                      id="n-btn"
+                      className="btn btn-warning"
+                    >
+                      Contact
+                    </button>
+                  </form>
                 </div>
               </div>
-              <button type="button" id="n-btn" className="btn btn-warning">
-                Contact
-              </button>
             </nav>
           </div>
         </div>
