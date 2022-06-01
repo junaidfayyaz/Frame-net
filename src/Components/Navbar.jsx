@@ -4,13 +4,13 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
     <div>
-      <div className="container-fluid nav-bg">
+      <div className="nav-bg">
         <div className="row">
           <div className="col-10 mx-auto">
             <nav className="container-fluid text-right navbar navbar-expand-lg navbar-light bg-light">
               <div className="container-fluid">
-                <Link class="navbar-brand" to="/">
-                  JunaidTechnical
+                <Link className="navbar-brand" to="/">
+                  Junaid
                 </Link>
                 <button
                   className="navbar-toggler"
@@ -51,6 +51,9 @@ function Navbar() {
                   </ul>
                 </div>
               </div>
+              <button type="button" id="n-btn" className="btn btn-warning">
+                Contact
+              </button>
             </nav>
           </div>
         </div>

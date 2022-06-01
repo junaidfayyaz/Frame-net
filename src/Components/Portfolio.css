@@ -1,0 +1,10 @@
+.portfolio{
+    padding-top: 5rem;
+}
+.p-text{
+    text-align: center;
+    padding-bottom: 5rem;
+    font-size: 50px;
+    font-weight: 600;
+    color: orange;
+}

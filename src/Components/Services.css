@@ -1,0 +1,82 @@
+#service{
+padding-top: 5%;
+}
+.service-top{
+    color: rgb(0, 0, 31);
+    font-size: 50px;
+    font-weight: 600;
+}
+.s-lo{
+    text-align: justify;
+}
+#ser-btn{
+    border-radius: 25%;
+    padding: 14px;
+    color: white;
+    box-shadow: 0px 20px 24px 3px rgb(251 161 40 / 42%);
+}
+
+.s-name{
+    color: #ffc107;
+    font-size: 60px;
+    font-weight: 600;
+}
+.s-img{
+    width: 30%;
+    height: auto;
+    margin-left: 78px;
+}
+.s-right{
+    padding: 27px 15px;
+    border: 5px solid orange;
+    border-radius: 40px;
+    
+}
+.s-design{
+        text-align: center;
+    padding-top: 12px;
+    font-size: 20px;
+}
+.s-para{
+        text-align: center;
+    padding-top: 7px;
+}
+#s-btn{
+    margin-left: 78px;
+    border-radius: 25%;
+    padding: 14px;
+    color: white;
+    box-shadow: 0px 20px 24px 3px rgb(251 161 40 / 42%);
+}
+.s-right:hover{
+    background-color: orange;
+    color: white;
+}
+#s-btn:hover{
+    background-color: white;
+    color: orange;
+}
+/* Service Midlle */
+.s-middle{
+    margin-left: 48rem;
+    padding: 27px 15px;
+    border: 5px solid orange;
+    border-radius: 40px;
+}
+.s-middle:hover{
+    background-color: orange;
+    color: white;
+}
+
+/* Service Last */
+.s-last{
+    margin-left: 48rem;
+    padding: 27px 15px;
+    border: 5px solid orange;
+    border-radius: 40px;
+}
+
+.s-last:hover{
+    background-color: orange;
+    color: white;
+}

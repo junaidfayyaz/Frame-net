@@ -1,0 +1,22 @@
+.footer{
+    background-color: orange;
+    margin-top: 5rem;
+    padding: 100px;
+}
+.f-t{
+    color: white;
+    padding-top: 4rem;
+    font-weight: 600;
+}
+.f-icon{
+    font-size: 60px;
+    padding-right: 30px;
+    color: white;
+}
+.f-cont{
+   text-align: center;
+}
+.f-c{
+    color: white;
+    padding-top: 30px;
+}
